@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>New World</GameName>
+  <CategoryName>Dynasty M10 Gold</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>6</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="11/21/2022 12:25:11" isStartedSynced="True" ended="11/21/2022 12:38:07" isEndedSynced="True">
+      <RealTime>00:12:55.4236910</RealTime>
+    </Attempt>
+    <Attempt id="2" started="11/21/2022 13:05:51" isStartedSynced="True" ended="11/21/2022 13:18:33" isEndedSynced="True">
+      <RealTime>00:12:41.7021340</RealTime>
+    </Attempt>
+    <Attempt id="3" started="11/21/2022 13:20:00" isStartedSynced="True" ended="11/21/2022 13:32:38" isEndedSynced="True">
+      <RealTime>00:12:37.9794340</RealTime>
+    </Attempt>
+    <Attempt id="4" started="01/29/2023 20:12:03" isStartedSynced="True" ended="01/29/2023 20:14:50" isEndedSynced="True" />
+    <Attempt id="5" started="01/29/2023 20:43:49" isStartedSynced="True" ended="01/29/2023 20:46:48" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Cave Clear</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:18.2332290</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:27.1685500</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:18.2332290</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:25.4850079</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Explosion</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Commander Chen</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Keg 1 Placed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:39.3718370</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:44.8029540</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:39.7556889</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:39.3718370</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Keg 2 Placed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:54.4116300</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:54.4116300</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:02:20.0789050</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:02:12.7884120</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Isabella Spawn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:42.4523220</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:50.3806020</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:54.9345820</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:42.4523220</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Isabella Killed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:32.9563760</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:43.9345790</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:01:43.9345780</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:32.9563760</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:37.0183960</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Zhou Spawn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:54.8265970</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:00:56.4650770</RealTime>
+        </Time>
+        <Time id="1">
+          <RealTime>00:00:56.4650760</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:55.5418070</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:54.8265970</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Zhou Killed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:32.2708679</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:01:39.7305780</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:01:32.2708679</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:01:35.2134050</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

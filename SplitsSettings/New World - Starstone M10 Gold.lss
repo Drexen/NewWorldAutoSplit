@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>New World</GameName>
+  <CategoryName>Starstone M10 Gold</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">
+    </Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>31</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="12/08/2022 18:52:11" isStartedSynced="True" ended="12/08/2022 18:52:19" isEndedSynced="True" />
+    <Attempt id="2" started="12/08/2022 18:55:38" isStartedSynced="True" ended="12/08/2022 18:55:52" isEndedSynced="True" />
+    <Attempt id="3" started="12/08/2022 19:33:54" isStartedSynced="True" ended="12/08/2022 19:34:00" isEndedSynced="True" />
+    <Attempt id="4" started="12/08/2022 20:35:08" isStartedSynced="True" ended="12/08/2022 20:35:54" isEndedSynced="True" />
+    <Attempt id="5" started="12/10/2022 16:41:30" isStartedSynced="True" ended="12/10/2022 16:42:33" isEndedSynced="True" />
+    <Attempt id="6" started="12/10/2022 16:47:14" isStartedSynced="True" ended="12/10/2022 16:48:36" isEndedSynced="True" />
+    <Attempt id="7" started="12/10/2022 16:50:00" isStartedSynced="True" ended="12/10/2022 16:52:20" isEndedSynced="True" />
+    <Attempt id="8" started="12/10/2022 17:48:50" isStartedSynced="True" ended="12/10/2022 18:09:06" isEndedSynced="True">
+      <RealTime>00:20:16.7241450</RealTime>
+    </Attempt>
+    <Attempt id="9" started="12/10/2022 18:47:59" isStartedSynced="True" ended="12/10/2022 18:54:48" isEndedSynced="True" />
+    <Attempt id="10" started="12/10/2022 19:00:48" isStartedSynced="True" ended="12/10/2022 19:20:07" isEndedSynced="True">
+      <RealTime>00:19:19.1507020</RealTime>
+    </Attempt>
+    <Attempt id="11" started="12/10/2022 19:21:33" isStartedSynced="True" ended="12/10/2022 19:21:39" isEndedSynced="True" />
+    <Attempt id="12" started="12/10/2022 19:29:38" isStartedSynced="True" ended="12/10/2022 19:49:47" isEndedSynced="True">
+      <RealTime>00:20:09.4446940</RealTime>
+    </Attempt>
+    <Attempt id="13" started="12/10/2022 19:50:37" isStartedSynced="True" ended="12/10/2022 19:51:00" isEndedSynced="True" />
+    <Attempt id="14" started="12/10/2022 19:59:35" isStartedSynced="True" ended="12/10/2022 20:00:29" isEndedSynced="True" />
+    <Attempt id="15" started="12/10/2022 20:08:22" isStartedSynced="True" ended="12/10/2022 20:26:23" isEndedSynced="True">
+      <RealTime>00:18:00.8069790</RealTime>
+    </Attempt>
+    <Attempt id="16" started="12/11/2022 16:33:41" isStartedSynced="True" ended="12/11/2022 16:41:34" isEndedSynced="True" />
+    <Attempt id="17" started="12/11/2022 16:54:55" isStartedSynced="True" ended="12/11/2022 16:55:00" isEndedSynced="True" />
+    <Attempt id="18" started="12/11/2022 17:22:47" isStartedSynced="True" ended="12/11/2022 17:23:29" isEndedSynced="True" />
+    <Attempt id="19" started="12/11/2022 17:28:38" isStartedSynced="True" ended="12/11/2022 17:46:15" isEndedSynced="True">
+      <RealTime>00:17:36.9451330</RealTime>
+    </Attempt>
+    <Attempt id="20" started="12/11/2022 17:48:02" isStartedSynced="True" ended="12/11/2022 17:48:09" isEndedSynced="True" />
+    <Attempt id="21" started="12/11/2022 17:57:53" isStartedSynced="True" ended="12/11/2022 18:03:43" isEndedSynced="True" />
+    <Attempt id="22" started="12/11/2022 18:05:31" isStartedSynced="True" ended="12/11/2022 18:05:36" isEndedSynced="True" />
+    <Attempt id="23" started="12/12/2022 19:18:48" isStartedSynced="True" ended="12/12/2022 19:39:59" isEndedSynced="True" />
+    <Attempt id="24" started="12/12/2022 20:13:31" isStartedSynced="True" ended="12/12/2022 20:17:32" isEndedSynced="True" />
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>Azoth Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:01:36.1493550</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:28.7528040</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:01:28.7528040</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:30.5690460</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:55.4722820</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:30.3455090</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:35.6251659</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:36.1493550</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:41.0599490</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:40.4606343</RealTime>
+        </Time>
+        <Time id="24">
+          <RealTime>00:02:58.3382615</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Lazer Maze</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:03:00.2795210</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:24.1301650</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:01:36.9181670</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:26.4648750</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:34.1077780</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:25.8226050</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:01:31.9845960</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:24.1301650</RealTime>
+        </Time>
+        <Time id="21">
+          <RealTime>00:01:59.1419690</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:37.9157986</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Azoth Door</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:05:04.3246480</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:52.5861470</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:02:06.0844540</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:02:07.9894770</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:20.5490630</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:52.5861470</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:02:06.0844530</RealTime>
+        </Time>
+        <Time id="16">
+          <RealTime>00:03:43.8285770</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:02:04.0451260</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:02:15.7138174</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Simon Grey Spawn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:06:07.4256810</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:02.5940870</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:01:17.6623250</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:21.4049640</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:02.5940870</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:35.1071940</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:03.1010330</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:22.5264833</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Simon Grey Killed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:07:26.6448170</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:15.2639269</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:01:17.8396140</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:39.7995050</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:16.1862900</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:24.8965440</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:19.2191360</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:15.2639269</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Foreman Spawn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:10.5723410</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:07.1225420</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="0">
+          <RealTime>00:01:07.1225420</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:34.5928480</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:27.1284120</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:28.8471840</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:48.0887340</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:43.9275229</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:01:38.9661414</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Foreman Killed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:09:58.4939610</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:33.9248100</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="-1">
+          <RealTime>00:00:40.5666090</RealTime>
+        </Time>
+        <Time id="0">
+          <RealTime>00:01:26.3070800</RealTime>
+        </Time>
+        <Time id="8">
+          <RealTime>00:01:26.3000000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:26.3000000</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:26.3000000</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:00:40.5666080</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:00:47.9216190</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:00:33.9248100</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Power Lock</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:12:47.7202080</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:02:29.4766340</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:56.3034130</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:02:29.4766340</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:02:46.0106910</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:02:38.9687000</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:02:49.2262470</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:02:31.4012774</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Greundgul Spawn</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:15:57.9085370</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:03:07.6793880</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:04:59.6853360</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:04:11.2391360</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:04:48.9747930</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:03:07.6793880</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:03:10.1883280</RealTime>
+        </Time>
+        <Time id="23">
+          <RealTime>00:05:04.9644845</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+    <Segment>
+      <Name>Greundgul Killed</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:17:36.9451330</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:01:39.0365960</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="8">
+          <RealTime>00:02:10.6583790</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:01:46.2178510</RealTime>
+        </Time>
+        <Time id="12">
+          <RealTime>00:01:45.2742640</RealTime>
+        </Time>
+        <Time id="15">
+          <RealTime>00:01:43.2472420</RealTime>
+        </Time>
+        <Time id="19">
+          <RealTime>00:01:39.0365960</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
