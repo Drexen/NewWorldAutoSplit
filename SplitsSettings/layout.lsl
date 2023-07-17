@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>2642</X>
-  <Y>5</Y>
+  <X>2637</X>
+  <Y>4</Y>
   <VerticalWidth>325</VerticalWidth>
-  <VerticalHeight>481</VerticalHeight>
+  <VerticalHeight>482</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -40,30 +40,12 @@
   </Settings>
   <Components>
     <Component>
-      <Path>LiveSplit.Timer.dll</Path>
-      <Settings>
-        <Version>1.5</Version>
-        <TimerHeight>69</TimerHeight>
-        <TimerWidth>225</TimerWidth>
-        <TimerFormat>1.23</TimerFormat>
-        <OverrideSplitColors>False</OverrideSplitColors>
-        <ShowGradient>True</ShowGradient>
-        <TimerColor>FFAAAAAA</TimerColor>
-        <BackgroundColor>00000000</BackgroundColor>
-        <BackgroundColor2>FF222222</BackgroundColor2>
-        <BackgroundGradient>Plain</BackgroundGradient>
-        <CenterTimer>False</CenterTimer>
-        <TimingMethod>Current Timing Method</TimingMethod>
-        <DecimalsSize>35</DecimalsSize>
-      </Settings>
-    </Component>
-    <Component>
       <Path>LiveSplit.Splits.dll</Path>
       <Settings>
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF3373F4</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>14</VisualSplitCount>
+        <VisualSplitCount>13</VisualSplitCount>
         <SplitPreviewCount>1</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
@@ -119,6 +101,48 @@
             <TimingMethod>Current Timing Method</TimingMethod>
           </Settings>
         </Columns>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.Timer.dll</Path>
+      <Settings>
+        <Version>1.5</Version>
+        <TimerHeight>69</TimerHeight>
+        <TimerWidth>225</TimerWidth>
+        <TimerFormat>1.23</TimerFormat>
+        <OverrideSplitColors>False</OverrideSplitColors>
+        <ShowGradient>True</ShowGradient>
+        <TimerColor>FFAAAAAA</TimerColor>
+        <BackgroundColor>00000000</BackgroundColor>
+        <BackgroundColor2>FF222222</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <CenterTimer>False</CenterTimer>
+        <TimingMethod>Current Timing Method</TimingMethod>
+        <DecimalsSize>35</DecimalsSize>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.SumOfBest.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Display2Rows>False</Display2Rows>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.AutoSplitIntegration.dll</Path>
+      <Settings>
+        <Version>1.8</Version>
+        <AutoSplitPath>C:\Users\Andrew\Desktop\LiveSplit\AutoSplit.2.0.1\AutoSplit.exe</AutoSplitPath>
+        <SettingsPath>C:\Users\Andrew\Desktop\LiveSplit\AutoSplit.2.0.1\settings.toml</SettingsPath>
+        <GameTimePausing>False</GameTimePausing>
       </Settings>
     </Component>
   </Components>
